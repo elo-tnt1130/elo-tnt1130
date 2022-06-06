@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @elo-tnt1130
 - 👀 I’m interested in coding, motorbikes, books, martial arts and video games.
 - 🌱 I’m currently learning web development languages (PHP and JS for the moment, but hope so learn Ruby, Python, C#...), since few months.
-- 💞️ I’m looking to collaborate on nothing for now, I'm learning, so I will avoid to break the code of other dev's ;) 
 - 📫 How to reach me ... 
 
 <!---
